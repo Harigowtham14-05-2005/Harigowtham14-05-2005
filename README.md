@@ -109,21 +109,17 @@ I am **Harigowtham A**, a Data Scientist and Machine Learning Engineer with a st
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, Java, JavaScript, TypeScript  
-**Backend:** Node.js, Flask, Django  
-**Frontend:** React, Next.js  
-**Databases:** MongoDB, MySQL, PostgreSQL  
-**Cloud & DevOps:** AWS, Azure, GCP, Docker  
-**ML / DL:** TensorFlow, PyTorch, scikit-learn  
+<p align="center">
+  <b>Languages:</b> Python, Java, JavaScript, TypeScript<br/>
+  <b>Backend:</b> Node.js, Flask, Django<br/>
+  <b>Frontend:</b> React, Next.js<br/>
+  <b>Databases:</b> MongoDB, MySQL, PostgreSQL<br/>
+  <b>Cloud &amp; DevOps:</b> AWS, Azure, GCP, Docker<br/>
+  <b>ML / DL:</b> TensorFlow, PyTorch, scikit-learn
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts&perline=8" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,node,flask,django,mongodb,mysql,postgres&perline=8" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,tensorflow,pytorch&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,next,node,flask,django,mongodb,mysql,postgres,aws,azure,gcp,docker,tensorflow,pytorch&perline=9" />
 </p>
 
 ---
@@ -133,15 +129,7 @@ I am **Harigowtham A**, a Data Scientist and Machine Learning Engineer with a st
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harigowtham14-05-2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-</p>
-
-<p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Harigowtham14-05-2005&theme=tokyonight-duo&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harigowtham14-05-2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ---
