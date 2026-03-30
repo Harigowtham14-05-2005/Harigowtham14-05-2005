@@ -119,7 +119,7 @@ I am **Harigowtham A**, a Data Scientist and Machine Learning Engineer with a st
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,next,node,flask,django,mongodb,mysql,postgres,aws,azure,gcp,docker,tensorflow,pytorch&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,next,nodejs,flask,django,mongodb,mysql,postgres,aws,azure,gcp,docker,tensorflow,pytorch&perline=9" />
 </p>
 
 ---
