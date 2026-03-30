@@ -127,16 +127,19 @@ I am **Harigowtham A**, a Data Scientist and Machine Learning Engineer with a st
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harigowtham14-05-2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1&column=6" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=00F7FF&center=true&vCenter=true&width=650&lines=Live+GitHub+Stats;Open-Source+Contributions+%26+Streaks;Languages+I+Use+the+Most" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harigowtham14-05-2005&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Harigowtham14-05-2005&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harigowtham14-05-2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harigowtham14-05-2005&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Harigowtham14-05-2005&theme=tokyonight-duo&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harigowtham14-05-2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ---
