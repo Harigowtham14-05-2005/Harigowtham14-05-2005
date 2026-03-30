@@ -115,8 +115,15 @@ I am **Harigowtham A**, a Data Scientist and Machine Learning Engineer with a st
 **Databases:** MongoDB, MySQL, PostgreSQL  
 **Cloud & DevOps:** AWS, Azure, GCP, Docker  
 **ML / DL:** TensorFlow, PyTorch, scikit-learn  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,next,node,flask,django,mongodb,mysql,postgres,aws,azure,gcp,docker,tensorflow,pytorch&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts&perline=8" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,node,flask,django,mongodb,mysql,postgres&perline=8" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,tensorflow,pytorch&perline=8" />
 </p>
 
 ---
@@ -127,6 +134,9 @@ I am **Harigowtham A**, a Data Scientist and Machine Learning Engineer with a st
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harigowtham14-05-2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+</p>
+
+<p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Harigowtham14-05-2005&theme=tokyonight-duo&hide_border=true" />
 </p>
 
