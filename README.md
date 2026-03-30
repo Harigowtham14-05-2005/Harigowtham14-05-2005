@@ -127,16 +127,16 @@ I am **Harigowtham A**, a Data Scientist and Machine Learning Engineer with a st
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harigowtham-14-05-2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harigowtham14-05-2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harigowtham-14-05-2005&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Harigowtham-14-05-2005&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harigowtham14-05-2005&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Harigowtham14-05-2005&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harigowtham-14-05-2005&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harigowtham14-05-2005&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -146,7 +146,7 @@ I am **Harigowtham A**, a Data Scientist and Machine Learning Engineer with a st
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harigowtham-14-05-2005&theme=react-dark&bg_color=0D1117&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harigowtham14-05-2005&theme=react-dark&bg_color=0D1117&hide_border=true" />
 </p>
 
 ---
@@ -190,7 +190,7 @@ I am **Harigowtham A**, a Data Scientist and Machine Learning Engineer with a st
 ## 🔥 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harigowtham-14-05-2005&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Harigowtham14-05-2005&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
 </p>
 
 ---
